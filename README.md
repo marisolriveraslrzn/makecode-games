@@ -1,6 +1,6 @@
 # 🎮 MakeCode Arcade Projects
 
-![Encabezado](https://github.com/marisolriveraslrzn/makecode-games/assets/your-image-path/banner.png)
+🌐 Ver fondo embebido: [Gaming Background en GitHub Pages](https://tuusuario.github.io/tu-repo/background.html)
 
 Bienvenido/a a esta colección de videojuegos educativos desarrollados con [Microsoft MakeCode Arcade](https://arcade.makecode.com/), una plataforma que permite crear juegos retro en 2D usando bloques o JavaScript/Python. Ideal para enseñar programación de forma visual, divertida y accesible.
 
