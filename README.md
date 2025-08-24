@@ -1,7 +1,6 @@
 # 🎮 MakeCode Arcade Projects
 
-🌐 Ver fondo embebido: [Gaming Background en GitHub Pages](https://tuusuario.github.io/tu-repo/background.html)
-
+![Fondo gamer](gaming%20desktop%20background.png) 
 Bienvenido/a a esta colección de videojuegos educativos desarrollados con [Microsoft MakeCode Arcade](https://arcade.makecode.com/), una plataforma que permite crear juegos retro en 2D usando bloques o JavaScript/Python. Ideal para enseñar programación de forma visual, divertida y accesible.
 
 Estos proyectos fueron creados como parte de actividades STEAM, talleres de programación y exploración creativa. Cada juego incluye su enlace directo al simulador, para que puedas jugarlo sin instalar nada.
