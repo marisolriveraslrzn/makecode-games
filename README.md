@@ -22,12 +22,19 @@ Ideal para docentes, estudiantes y entusiastas del desarrollo de videojuegos.
 ## 🗂️ Juegos disponibles
 
 | 🎮 Juego         | 🧩 Descripción breve                     | ▶️ Simulador Arcade |
-|------------------|------------------------------------------|---------------------|
-| **Gusano**       | Juego de desplazamiento con obstáculos   | [Jugar](https://arcade.makecode.com/S26265-18618-77923-05780) |
-| **Laberinto**    | Proyecto con animaciones y movimiento    | [Jugar](https://arcade.makecode.com/S70214-75783-64274-87237) |
-| **Crazy Box**    | Basado en el clásico de reflejos         | [Jugar](https://forum.makecode.com/t/crazy-box/949) |
-| **Lost in Space**| Exploración espacial con enemigos        | [Jugar](https://arcade.makecode.com/---run?id=XXXXXX) |
-| *(Agrega más aquí)* | *(Descripción opcional)*              | *(Enlace Arcade)*   |
+|-------------------|------------------------------------------|---------------------|
+| **Gusano**        | Juego de desplazamiento con obstáculos   | [Jugar](https://arcade.makecode.com/S26265-18618-77923-05780) |
+| **Laberinto**     |                                          | [Jugar](https://arcade.makecode.com/S70214-75783-64274-87237) |
+| **Galaxy-Force**  |                                          | [Jugar](https://arcade.makecode.com/S04600-61330-01651-55616) |
+| **Memoria**       |                                          | [Jugar](https://arcade.makecode.com/S72692-10064-96880-89287) |
+| **Plataforma**    |                                          | [Jugar](https://arcade.makecode.com/S49300-13233-14877-41150) |
+| **Plataforma2**   |                                          | [Jugar](https://arcade.makecode.com/S24916-05393-66430-71976) |
+| **Plataforma5**   |                                          | [Jugar](https://arcade.makecode.com/S98116-18518-03836-48793) |
+
+| **Ping-Pong**     |                                          | [Jugar](https://arcade.makecode.com/S54155-05721-20681-04505) |
+| **Carreras**     |                                          | [Jugar](https://arcade.makecode.com/S13031-75100-98483-48599) |
+
+
 
 ---
 ## 📦 Cómo usar este repositorio
