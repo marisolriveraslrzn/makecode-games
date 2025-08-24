@@ -24,7 +24,7 @@ Ideal para docentes, estudiantes y entusiastas del desarrollo de videojuegos.
 | 🎮 Juego         | 🧩 Descripción breve                     | ▶️ Simulador Arcade |
 |------------------|------------------------------------------|---------------------|
 | **Gusano**       | Juego de desplazamiento con obstáculos   | [Jugar](https://arcade.makecode.com/S26265-18618-77923-05780) |
-| **Sprites 3º**   | Proyecto con animaciones y movimiento    | [Jugar](https://arcade.makecode.com/90955-44474-15844-08027) |
+| **Laberinto**    | Proyecto con animaciones y movimiento    | [Jugar](https://arcade.makecode.com/S70214-75783-64274-87237) |
 | **Crazy Box**    | Basado en el clásico de reflejos         | [Jugar](https://forum.makecode.com/t/crazy-box/949) |
 | **Lost in Space**| Exploración espacial con enemigos        | [Jugar](https://arcade.makecode.com/---run?id=XXXXXX) |
 | *(Agrega más aquí)* | *(Descripción opcional)*              | *(Enlace Arcade)*   |
