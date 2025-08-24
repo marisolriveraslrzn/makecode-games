@@ -31,7 +31,7 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, ot
     game.over(false)
 })
 function introGame0 () {
-    game.showLongText("¡\"Falling Bird\"!", DialogLayout.Full)
+    game.showLongText("¡\"Flappy Bird\"!", DialogLayout.Full)
 }
 let projectile: Sprite = null
 let gapSprite: Sprite = null
